@@ -29,4 +29,3 @@ recipes.addShapeless(<minecraft:blaze_powder>, [<ore:dustRedstone>, <ore:dustGlo
 // ================================================================================
 //#MARKER ADD SHAPED
 recipes.addShaped(<minecraft:ghast_tear>, [[<minecraft:nether_wart>, <ore:cropNetherWart>, <minecraft:nether_wart>], [<ore:cropNetherWart>, <minecraft:fire_charge>, <minecraft:nether_wart>], [<ore:cropNetherWart>, <ore:cropNetherWart>, <ore:cropNetherWart>]]);
-recipes.addShaped(<minecraft:glowstone_dust> * 4, [[<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>], [<ore:dustRedstone>, <ore:nuggetGold>, <ore:dustRedstone>], [<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>]]);
