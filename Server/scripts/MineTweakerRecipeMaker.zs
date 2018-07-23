@@ -28,4 +28,5 @@ recipes.addShapeless(<minecraft:blaze_powder>, [<ore:dustRedstone>, <ore:dustGlo
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<cfm:fire_pit_on>, [[null, <minecraft:flint_and_steel>, null], [<ore:slabWood>, <ore:slabWood>, <ore:slabWood>]]);
 recipes.addShaped(<minecraft:ghast_tear>, [[<minecraft:nether_wart>, <ore:cropNetherWart>, <minecraft:nether_wart>], [<ore:cropNetherWart>, <minecraft:fire_charge>, <minecraft:nether_wart>], [<ore:cropNetherWart>, <ore:cropNetherWart>, <ore:cropNetherWart>]]);

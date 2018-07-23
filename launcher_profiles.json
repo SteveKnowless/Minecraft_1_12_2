@@ -2,9 +2,9 @@
   "profiles": {
     "(Default)": {
       "name": "(Default)",
-      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2705",
-      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_171\\bin\\javaw.exe",
-      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -Dfml.readTimeout=180"
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2739",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_181\\bin\\javaw.exe",
+      "javaArgs": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent\u003d20 -XX:G1ReservePercent\u003d20 -XX:MaxGCPauseMillis\u003d50 -XX:G1HeapRegionSize\u003d16M -Dfml.readTimeout\u003d180"
     }
   }
 }
