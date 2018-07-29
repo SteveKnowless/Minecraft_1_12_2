@@ -8,3 +8,4 @@ val treasure_slimePool = treasure_slimeTable.getPool("treasureslime_spawnitem");
 treasure_slimePool.addItemEntry(<compactmachines3:wallbreakable>, 1);
 treasure_slimePool.addItemEntry(<minecraft:chorus_fruit>, 1);
 treasure_slimePool.addItemEntry(<minecraft:dye>, 1);
+treasure_slimePool.addItemEntry(<rftoolsdim:dimlet_parcel>, 1);
